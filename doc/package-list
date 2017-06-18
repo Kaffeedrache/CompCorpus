@@ -1,0 +1,14 @@
+de.uni_stuttgart.ims.corpus.analysis.whatswrong
+de.uni_stuttgart.ims.corpus.compannotation
+de.uni_stuttgart.ims.corpus.comparatives.ims
+de.uni_stuttgart.ims.corpus.comparatives.jdpa
+de.uni_stuttgart.ims.corpus.comparatives.liu
+de.uni_stuttgart.ims.corpus.comparatives.ner.jdpa
+de.uni_stuttgart.ims.corpus.comparatives.sony
+de.uni_stuttgart.ims.corpus.comparatives.usage
+de.uni_stuttgart.ims.corpus.folds
+de.uni_stuttgart.ims.corpus.normalize
+de.uni_stuttgart.ims.corpus.srlannotation
+de.uni_stuttgart.ims.corpus.unlabeled.amazon
+de.uni_stuttgart.ims.corpus.unlabeled.epinions
+de.uni_stuttgart.ims.corpus.util
