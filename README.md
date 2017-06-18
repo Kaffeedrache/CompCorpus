@@ -3,10 +3,6 @@
 An assortment of things to create parsed, annotated sentences with comparison information from a bunch of sources (IMS data, JDPA, Jindal and Liu).
 
 
-delete createFolds
-delete sony
-delete analyiss
-
 
 ## Basic packages
 
